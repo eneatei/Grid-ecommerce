@@ -27,7 +27,6 @@ main {
   grid-area: main;
   background-color: #f5ecd7;
   width: 85vw;
-  height:100vh
   overflow-y: auto;
 }
 
