@@ -41,17 +41,6 @@ footer {
   padding-top: 2vh;
 }
 
-.footer-content {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-
-.icon {
-  font-size: 20px;
-  margin-left: 5px;
-}
-
 .grid-container {
   display: grid;
   grid-template-areas:
@@ -146,4 +135,15 @@ button {
   border: none;
   cursor: pointer;
   font-weight: 500;
+}
+
+.footer-content {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.icon {
+  font-size: 20px;
+  margin-left: 5px;
 }
